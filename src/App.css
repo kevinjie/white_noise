@@ -1,0 +1,14 @@
+.container {
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0 20px;
+}
+
+.wrapper h2 {
+    margin-bottom: 20px;
+}
+
+.noise_list {
+    width: 100%;
+}
